@@ -1,0 +1,56 @@
+
+body {background-color: #f1cd9a;}
+
+.jumbotron {
+	 margin-bottom: 0px;
+    background-image: url(../img/food.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+
+.profile-pic {
+	max-width: 100%;
+}
+
+.profile-title {
+color: #c9160a; 
+font-family: 'Amatic SC', cursive;
+
+
+}
+
+
+
+.greenwich-title {
+color: #025aa5;
+font-family: 'Amatic SC', cursive;
+
+}
+
+.spitta-title {
+color: #074206;
+font-family: 'Amatic SC', cursive;	
+}
+
+.presents-progress { background-color: darkred;
+}
+
+.main-title {
+	color: black;
+	font-family: 'Cabin Sketch', cursive;
+}
+
+.my-nav {
+	background-color: #f0ad4e;
+	color: black;
+	font-family: 'Amatic SC', cursive;
+}
+
+.display {
+	color: red;
+	font-family: 'Cabin Sketch', cursive;
+}
